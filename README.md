@@ -3,7 +3,7 @@ Reinforcement learning on the mountain car problem on 2 strategies
 
 ## First Strategy : Random Steps
 The first strategy I will follow is the random steps , which will be just taking steps randomly and
-seeing if the car will be able to reach the goal .Ill make the car play 4000 game cycles .
+seeing if the car will be able to reach the goal .Ill make the car play 4000 game cycles .However it the car has not won a single time .
 
 ## Second Strategy : Q learning Strategy
 To adopt a reinforcement learning for the car in order for it to reach the
